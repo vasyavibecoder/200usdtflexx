@@ -1,0 +1,1 @@
+window.SW_GAME={ships:["Стартовый корабль"],guns:["Пушка"],locations:["Порт Мертвецов","Острова Сирен","Ост-Индия"],resources:["money","piastr","iron","pearl","crystal","key","rum","hummer"]};
